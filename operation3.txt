@@ -1,0 +1,2 @@
+Operation 3: Git File Operations
+This file demonstrates creating, modifying, staging, committing, and pushing changes.
