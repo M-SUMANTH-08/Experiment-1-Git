@@ -1,2 +1,3 @@
 Operation 3: Git File Operations
 This file demonstrates creating, modifying, staging, committing, and pushing changes.
+The file has been modified to demonstrate version control.Testing modified file status.
